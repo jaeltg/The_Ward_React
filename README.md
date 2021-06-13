@@ -2,6 +2,8 @@
 
 A browser game paying homage to the NHS heroes and the difficult decisions they have to make everyday. The objective of the game is to try and cure as many patients as you can by assigning them to the right specialist.
 
+You can play The Ward here! https://the-ward-c50f7.web.app/
+
 ## Made Using:
 
 **Languages:** JavaScript, HTML5, CSS
